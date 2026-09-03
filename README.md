@@ -192,6 +192,12 @@ Smart-Healthcare-Appointment-Application
 
 ---
 
+#Screenshots
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 21 14" src="https://github.com/user-attachments/assets/29e946e0-ab7e-43ff-9b59-644bf8c32284" />
+
+---
+
 # 🎯 Learning Outcomes
 
 This project demonstrates practical implementation of:
