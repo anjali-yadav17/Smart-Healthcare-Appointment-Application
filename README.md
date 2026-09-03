@@ -51,6 +51,18 @@ This project demonstrates modern Android development practices including **Jetpa
 
 ---
 
+# Screenshots
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 20 54" src="https://github.com/user-attachments/assets/b61df160-ebd0-4630-a9fb-5646c119e772" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 21 14" src="https://github.com/user-attachments/assets/a1a51cb2-1d44-47df-b767-cf3d6958bd6b" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 21 34" src="https://github.com/user-attachments/assets/472ff63e-e64b-4a56-b335-8fa49ff96206" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 21 51" src="https://github.com/user-attachments/assets/3c78e562-deb2-4374-aff5-09e125cd046d" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 22 28" src="https://github.com/user-attachments/assets/d43ae642-5984-46c7-a1a7-ddf8d0decda7" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 22 44" src="https://github.com/user-attachments/assets/cea8bde1-4c4e-4f7a-9902-21d3e08151f7" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 23 44" src="https://github.com/user-attachments/assets/ca72cd13-a302-4d77-bdbd-3ef1aa6c6413" />
+
+---
+
 # 🚀 User Flow
 
 ```text
@@ -189,12 +201,6 @@ Smart-Healthcare-Appointment-Application
 │
 └── build.gradle
 ```
-
----
-
-#Screenshots
-
-<img width="720" height="1600" alt="WhatsApp Image 2026-09-03 at 18 21 14" src="https://github.com/user-attachments/assets/29e946e0-ab7e-43ff-9b59-644bf8c32284" />
 
 ---
 
