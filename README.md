@@ -55,16 +55,19 @@ This project demonstrates modern Android development practices including **Jetpa
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b61df160-ebd0-4630-a9fb-5646c119e772" width="200"/>
-<img src="https://github.com/user-attachments/assets/a1a51cb2-1d44-47df-b767-cf3d6958bd6b" width="200"/>
-<img src="https://github.com/user-attachments/assets/472ff63e-e64b-4a56-b335-8fa49ff96206" width="200"/>
+<img src="https://github.com/user-attachments/assets/b61df160-ebd0-4630-a9fb-5646c119e772" width="220"/>
+<img src="https://github.com/user-attachments/assets/a1a51cb2-1d44-47df-b767-cf3d6958bd6b" width="220"/>
+<img src="https://github.com/user-attachments/assets/472ff63e-e64b-4a56-b335-8fa49ff96206" width="220"/>
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/3c78e562-deb2-4374-aff5-09e125cd046d" width="170"/>
-<img src="https://github.com/user-attachments/assets/d43ae642-5984-46c7-a1a7-ddf8d0decda7" width="170"/>
-<img src="https://github.com/user-attachments/assets/cea8bde1-4c4e-4f7a-9902-21d3e08151f6" width="170"/>
-<img src="https://github.com/user-attachments/assets/ca72cd13-a302-4d77-bdbd-3ef1aa6c6413" width="170"/>
+<img src="https://github.com/user-attachments/assets/3c78e562-deb2-4374-aff5-09e125cd046d" width="220"/>
+<img src="https://github.com/user-attachments/assets/d43ae642-5984-46c7-a1a7-ddf8d0decda7" width="220"/>
+<img src="https://github.com/user-attachments/assets/cea8bde1-4c4e-4f7a-9902-21d3e08151f6" width="220"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/ca72cd13-a302-4d77-bdbd-3ef1aa6c6413" width="220"/>
 
 </div>
 
